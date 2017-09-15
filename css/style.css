@@ -83,6 +83,14 @@ ul li > div {
   width: 50%;
 }
 
+ul li div:first-child {
+  margin-right: 5px;
+}
+
+ul li div:last-child {
+  margin-left: 5px;
+}
+
 footer {
   margin-bottom: 5rem;
 }
